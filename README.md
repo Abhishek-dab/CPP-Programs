@@ -34,3 +34,9 @@ Write a C++ program to perform the following operations using user defined funct
 * String Copy
 * String concatenation 
 * String Reversal (Do not use library functions)
+
+### Program 4:
+Write a program to accept the quarterly sales for the entire year of 5 salesman. Make a function to display the details of the salesman who has made the maximum total sales using pointers. Define appropriate functions for:
+* calculating total sales 
+* finding max_sales 
+* printing details of salesman
