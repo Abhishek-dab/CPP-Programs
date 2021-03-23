@@ -27,3 +27,10 @@ Write functions for the following:
 
 ### Program 2:
  Write a program to enter data in a dynamic array. The program should keep reading the numbers and inserting in the array. Stop when the user enters -1.
+
+### Program 3:
+Write a C++ program to perform the following operations using user defined functions and pointers.
+* String Comparison
+* String Copy
+* String concatenation 
+* String Reversal (Do not use library functions)
